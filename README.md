@@ -26,7 +26,7 @@ Time spent: 7 to 9 hours spent in total
 
 
 <img src="https://github.com/tanzil7/Flixster/blob/master/walkthrough.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<img scr1="https://github.com/tanzil7/Flixster/blob/master/walkthrough1.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img scr="https://github.com/tanzil7/Flixster/blob/master/walkthrough1.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ### Notes
 While building this app, there were few challenges that I came across. One of the main challenge was that some of the imports were not syncing. I had to watch another video on youtube to overcome this. Another challenge I had was with the recyclerview. Whenever I added the recyclerview, there was some item list numbers being draged. 

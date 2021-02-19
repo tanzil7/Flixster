@@ -3,7 +3,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 Submitted by: Tanzil Baraskar
 
-Time spent: 7 to 9 hours spent in total
+Time spent: 9 to 10 hours spent in total
 
 
 ## Flix Part 2
